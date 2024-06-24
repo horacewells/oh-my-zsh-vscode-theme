@@ -1,6 +1,6 @@
 # oh-my-zsh-vscode-theme
 
-Make sure zsh is installed and the current shell is zsh.
+Make sure oh-my-zsh is installed and the current shell is zsh.
 
 ## How do I check?
 

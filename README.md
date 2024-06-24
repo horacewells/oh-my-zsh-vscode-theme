@@ -2,8 +2,7 @@
 
 ## Usage
 ```
-chmod +x install.sh \
-./install.sh
+chmod +x install.sh && ./install.sh
 ```
 Make sure zsh is installed and the current shell is zsh.
 
